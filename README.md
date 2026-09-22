@@ -1,6 +1,8 @@
 # AI-Powered Customer Churn Analysis
 
-> **End-to-end Data Science & ML Portfolio Project**  
+> **Submitted by: Sumit Gupta**
+> **Project: AI-Powered-Customer-Churn-Analysis**
+> **End-to-end Data Science & ML Portfolio Project**
 > Python · Pandas · SQL · Machine Learning · XGBoost · Plotly · Streamlit · AI/LLM
 
 ---
@@ -153,8 +155,8 @@ AI-Powered Customer Churn Analysis/
 
 ```bash
 # 1. Clone or download the project
-git clone https://github.com/your-username/ai-churn-analysis.git
-cd ai-churn-analysis
+git clone https://github.com/SumitGupta/AI-Powered-Customer-Churn-Analysis.git
+cd AI-Powered-Customer-Churn-Analysis
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
